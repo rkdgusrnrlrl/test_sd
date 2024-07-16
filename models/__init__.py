@@ -1,0 +1,1 @@
+local_model_path = "models/sample.safetensors"

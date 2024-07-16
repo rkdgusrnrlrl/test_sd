@@ -1,0 +1,8 @@
+.idea
+.venv
+venv
+models/*
+!models/__init__.py
+prompts/*
+!prompts/__init__.py
+output

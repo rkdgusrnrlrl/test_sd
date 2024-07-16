@@ -1,0 +1,1 @@
+sample_prompt = "A fantasy landscape with mountains and a river"
